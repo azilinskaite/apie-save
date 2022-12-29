@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@200;500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Unbounded;
+    background-color: #f4e6de;
+}
+
+body {
+    padding: 30px;
+    line-height: 50px;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 40px;
+    text-align: center;
+    color: black;
+}
+
+h3 {
+    text-transform: uppercase;
+    font-size: 15px;
+    text-align: center;
+    color: black;
+    padding-top: 20px;
+}
+
+.p {
+    font-size: 0,5em;
+    color: black;
+    border: 3px solid #001fff;
+    border-radius: 50px 0 50px 0;
+    box-shadow: 30px 30px 30px #b793c4;
+    background: #f4e6de;
+    margin: 50px;
+    margin-top: 20px;
+    margin: 30px 15px;
+    margin: 30px auto;
+    padding: 30px;
+    padding-left: 35px;
+    max-width: 850px;
+    min-width: 500px;
+    height: 2700px;
+    box-sizing: border-box;
+}
+
+
+.image {
+    width: 300px;
+    height: 300px;
+    border: 3px solid black;
+    border-radius: 8px;
+    background: url(https://scontent.fkun1-1.fna.fbcdn.net/v/t39.30808-6/281127392_622248255928141_4256102274411403074_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=Jf10HpKvYZ4AX_RG6cI&tn=r4ryHe9Op8DrwhiD&_nc_ht=scontent.fkun1-1.fna&oh=00_AfB2xr5B1CfCx_mNSvIsRUNZcNlVSkbovOnp1Sjr5rexzQ&oe=63B2297A);
+    background-size: 120%;
+    background-position: 50% 50%;
+    align-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.image2 {
+    width: 300px;
+    height: 300px;
+    border: 3px solid black;
+    border-radius: 8px;
+    background: url(https://images.savoysystems.co.uk/GCL/160534.jpg);
+    background-size: 130%;
+    background-position: 50% 50%;
+    align-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.image3 {
+    width: 300px;
+    height: 300px;
+    border: 3px solid black;
+    border-radius: 8px;
+    background: url(https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9780684801469/a-farewell-to-arms-9780684801469_hr.jpg);
+    background-size: 100%;
+    align-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.image4 {
+    width: 300px;
+    height: 300px;
+    border: 3px solid black;
+    border-radius: 8px;
+    background: url(https://images-prod.dazeddigital.com/2048/azure/dazed-prod/1260/4/1264611.jpg);
+    background-size: 140%;
+    align-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
