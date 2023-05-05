@@ -11,6 +11,13 @@
 body {
     padding: 30px;
     line-height: 50px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
+nav {
+    top: 0;
 }
 
 h1 {
@@ -28,7 +35,7 @@ h3 {
     padding-top: 20px;
 }
 
-.p {
+section {
     font-size: 0,5em;
     color: black;
     border: 3px solid #001fff;
@@ -42,8 +49,7 @@ h3 {
     padding: 30px;
     padding-left: 35px;
     max-width: 850px;
-    min-width: 500px;
-    height: 2700px;
+    min-width: 300px;
     box-sizing: border-box;
 }
 
